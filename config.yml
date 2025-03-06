@@ -1,0 +1,6 @@
+telegram : 
+    api : https://api.telegram.org/bot%s/%s
+    apiKey : 7177711386:AAHOpDuGxQ1KAb1V2sKGIZCPSJ8iR11irBg
+    allowedUser : 
+        - 123
+        
